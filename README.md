@@ -70,21 +70,23 @@ Releases will be used to publish changelogs / blog posts that you can subscribe 
 
 ## ❓ FAQ 
 
-<summary>Click to expand 👇</summary>
 
-<!-- Include FAQ here -->
 **1. How good are these extensions?**
+
 It is important to note these extensions are in a limited public beta and are V0, not too different from apps early in the Apple Store days. Most of these extensions are right now good at a few hero use-cases, which are listed in the GitHub marketplace descriptions. For example, the @sentry app will be able to help a user gather context from Sentry’s issues, but it is not yet able to do autofix or other Sentry features. The goal is to iterate with extension builders over the next few months to raise the capabilities of these extensions.
 
 **2. How to get access as a CB/CE customer**
+
 All organizations are [managed by a policy to turn on Copilot Extensions](https://docs.github.com/en/copilot/github-copilot-chat/github-copilot-extensions/managing-github-copilot-extensions#setting-a-policy-for-github-copilot-extensions-in-your-organization) which is default set to off. To have access as a CB/CE customer:
 - Let us know the name of your organization & we'll potentially need to whitelist the entire org if your admin approves
 - Have permission from an org admin to override your account to have access
 
 **3. What legal terms must the participant agree to for this beta?**
+
 All participants in the beta must agree to GitHub’s pre-release legal terms, Marketplace terms of service, and the legal terms of the Partner builder.
 
 **4. What data is being collected and shared?**
+
 - Participants must also be comfortable with a 3rd party app accessing their data. Information that will be shared will be:
 - Information about the user (e.g., GitHub user ID)
 - Text contents of all past messages sent in thread by user to the platform and with the same app
